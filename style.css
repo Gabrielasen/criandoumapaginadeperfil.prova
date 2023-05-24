@@ -1,0 +1,77 @@
+body {
+    font-size: 100%;
+    backgroud-color: #f8efea
+  }
+  
+  .cabecalho {
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    gap: 30px;
+  }
+  
+  .cabecalho-menu-item {
+    font-family/;
+    'Sarala',
+    sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 18px
+   
+  }
+  
+  .conteudo {}
+  
+  header {
+    background: #000;
+    color: #ffffff;
+  }
+
+footer {
+    background: #000;
+    color: #ffffff;
+  }
+  
+  header,
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  height: 15vh body {
+    backgroud: #000;
+  }
+  
+  .box-title .title {
+  
+    position: relative;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'open_sansregular';
+  }
+  
+  .box-title .title .subtitle {
+  
+    margin-top: 5px;
+    font-size: 15px;
+    color: #ffffff;
+    word-spacing: 1px;
+    font-weight: bold;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    font-family: 'open_sansregular';
+    font-weight: 500;
+    display: grid;
+    grid-template-columns: 1fr max-content 1fr;
+    grid-template-rows: 27px 0;
+    grid-gap: 20px;
+    align-items: center;
+  }
+  
+
+
+
+  
