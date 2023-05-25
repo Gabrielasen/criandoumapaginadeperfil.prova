@@ -1,6 +1,6 @@
 body {
     font-size: 100%;
-    backgroud-color: #f8efea
+    background-color: #eceae4;
   }
   
   .cabecalho {
@@ -11,8 +11,7 @@ body {
   }
   
   .cabecalho-menu-item {
-    font-family/;
-    'Sarala',
+    font-family;'Cormorant', 
     sans-serif;
     color: #ffffff;
     font-weight: 400;
@@ -23,12 +22,12 @@ body {
   .conteudo {}
   
   header {
-    background: #000;
+    background: #c6d8da;
     color: #ffffff;
   }
 
 footer {
-    background: #000;
+    background: #c6d8da;
     color: #ffffff;
   }
   
@@ -39,8 +38,8 @@ footer {
     align-items: center;
   }
   
-  height: 15vh body {
-    backgroud: #000;
+ body {
+    backgroud-color: #000;
   }
   
   .box-title .title {
@@ -50,8 +49,15 @@ footer {
     font-size: 35px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-family: 'open_sansregular';
+    font-family: serif;
   }
+
+  {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
   
   .box-title .title .subtitle {
   
